@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\.Submodules\Ateliers.Training.DDD\Ateliers.Training.DDD.ApplicationLayer\Ateliers.Training.DDD.ApplicationLayer.csproj" />
+  </ItemGroup>
+
 </Project>
